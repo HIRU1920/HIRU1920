@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hir Patel</h1>
 <h3 align="center">CyberSecurity and App Developer</h3>
-<img align="right" alt="coding"width="400"src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif">
+<img align="center" alt="coding"width="400"src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiru1920" alt="hiru1920" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=hiru1920" alt="hiru1920" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking**
 

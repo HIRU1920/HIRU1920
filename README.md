@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiru1920&show_icons=true&locale=en" alt="hiru1920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiru1920&" alt="hiru1920" /></p>
+
+## 🎵 Now playing
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31zegvyskshoqgjww7eggcv2zkhq?si=btkH_Xr2ROSyrgU7uVYhoA&utm_source=copy-link)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hir Patel</h1>
 <h3 align="center">CyberSecurity and App Developer</h3>
 <img align="right" alt="coding"width="350"src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif">
-<img align="left" alt="coding"width="350"src="file:///D:/Climate%20clock/index.html">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 
 </a> </p>

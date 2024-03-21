@@ -16,13 +16,51 @@
 
 - 🧑‍🎓 I'm currently a **3rd year computer engineering student from India.**
   
-- 🌱 Currently learning **Cyber Scurity & Ethical Hacking.**
+- 🌱 Currently learning **Cyber Scurity & Ethical Hacking & App Devloper.**
   
 - 📫 Feel free to reach me out **heerpatel7504@gmail.com**
 
 <br>
 
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <div id="user-content-toc">
+      
+      </div>
+    </td>
+  </tr>
+  
+  <tr border="none">
+    <td width="50%" align="center">
+      <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true"/>
+      <hr>
+      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false"/> 
+      <br>
+      <br>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=vision-friendly-dark"/>
+      <br>
+      <br>
+    </td>
+  </tr>
 
+  <tr>
+    <td colspan="2">
+      <div>
+        <h2>  Trophies</h2>
+      
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+ 
+  </tr>
+</table>
 
 <br>
 
@@ -62,22 +100,16 @@
 
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/hir-patel-155608274/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50"/>
   </a>
-  
-    <img align="center" src="HIRU1920/github.com" alt="Docker" height="50" width="50"/>
-  </a>
+
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiru1920&show_icons=true&locale=en" alt="hiru1920" /></p>
-
-
 
 
 <div align="center">
   
-
+[![](https://visitcount.itsvg.in/api?id=ArmanKhanTech&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
 

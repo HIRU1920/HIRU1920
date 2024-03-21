@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 
 </a> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 📫 How to reach me **heerpatel7504@gmail.com**

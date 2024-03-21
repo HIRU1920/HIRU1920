@@ -22,51 +22,7 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <div id="user-content-toc">
-        <ul align="center">
-          <summary><h1 style="display: inline-block">My GitHub Stats 🙂</h1></summary>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  
-  <tr border="none">
-    <td width="50%" align="center">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true"/>
-      <hr>
-      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false"/> 
-      <br>
-      <br>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=vision-friendly-dark"/>
-      <br>
-      <br>
-    </td>
-  </tr>
 
-  <tr>
-    <td colspan="2">
-      <div>
-        <h2>  Trophies</h2>
-        <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=ArmanKhanTech&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=-?" alt="Trophies" />
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-    </td>
-  </tr>
-</table>
 
 <br>
 

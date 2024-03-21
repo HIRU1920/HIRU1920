@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 
 </a> </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 📫 How to reach me **heerpatel7504@gmail.com**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hir-patel-155608274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hir patel" height="30" width="40" /></a>

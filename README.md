@@ -20,49 +20,6 @@
   
 - 📫 Feel free to reach me out **heerpatel7504@gmail.com**
 
-<br>
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <div id="user-content-toc">
-      
-      </div>
-    </td>
-  </tr>
-  
-  <tr border="none">
-    <td width="50%" align="center">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmanKhanTech&theme=vision-friendly-dark&show_icons=true&count_private=true"/>
-      <hr>
-      <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanKhanTech&theme=vision-friendly-dark&hide_border=false"/> 
-      <br>
-      <br>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanKhanTech&layout=pie&langs_count=8&show_icons=true&locale=en&theme=vision-friendly-dark"/>
-      <br>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">
-      <div>
-        <h2>  Trophies</h2>
-      
-      </div>
-    </td>
-  </tr>
-
-  <tr>
- 
-  </tr>
-</table>
-
-<br>
 
 <div id="user-content-toc" align="center">
   <ul align="center">

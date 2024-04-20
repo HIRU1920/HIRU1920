@@ -6,7 +6,7 @@
 <br>
 <h1 align="center">Hi 😈... I'm Hir Patel ☠️</h1>
 <h3 align="center">CyberSecurity and App Developer</h3>
-<img align="right" alt="coding"width="365"src="https://github.com/HIRU1920/CoursesTorrent/blob/main/CyBER%20SECURITY.gif">
+<img align="right" alt="coding"width="375"src="https://github.com/HIRU1920/Java-ExCodes/blob/main/CyBER%20SECURITY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 

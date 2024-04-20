@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <br>
-<img src="https://github.com/HIRU1920/CoursesTorrent/blob/main/CyBER%20SECURITY%20(1).gif" width="975" align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="975" align="center">
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <br>
